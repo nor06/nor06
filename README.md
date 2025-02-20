@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **backend intern**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React js**
 
 - 📫 How to reach me **rjrendon500@gmail.com**
 
